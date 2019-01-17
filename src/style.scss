@@ -1,0 +1,16 @@
+/* HOT MODULE WORKS HERE, BECAUSE IS IMPORTED IN INDEX.JS */
+
+.dssBlock {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    &__element {
+        width: 100%;
+        background-color: red;
+    }
+    &--modifier {
+        width: 50%;
+        background-color: green;
+    }
+}
