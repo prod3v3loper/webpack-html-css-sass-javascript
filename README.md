@@ -1,5 +1,8 @@
 # Webpack-HTML-CSS-SASS-JavaScript
 
+You can find the tutorial here:
+[Webpack Project Example](https://www.tnado.com/blog/webpack-project-example/)
+
 The following files can be used and edited here:
 
 * HTML
