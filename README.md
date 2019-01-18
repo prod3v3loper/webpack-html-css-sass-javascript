@@ -60,3 +60,17 @@ This command build the dist folder with the end product.
 ```
 npm run build
 ```
+
+# Contribute
+
+Please [file an issue](https://github.com/prod3v3loper/Webpack-HTML-CSS-SASS-JavaScript/issues) if you
+think something could be improved. Please submit Pull Requests when ever
+possible.
+
+# Authors
+
+* **Samet Tarim** - *All works* - [ProDeveloper](https://www.tnado.com/author/prod3v3loper/)
+
+# License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
