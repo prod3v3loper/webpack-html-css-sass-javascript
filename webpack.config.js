@@ -7,7 +7,13 @@
  * 
  * One file configuration
  * 
- * @see https://webpack.js.org/guides/getting-started/
+ * @copyright   (c) 2019, Samet Tarim 
+ * @author      Samet Tarim (prod3v3loper)
+ * @package     Syntaxo
+ * @since       1.0
+ * @link        https://www.tnado.com/blog/webpack-project-example/
+ * @link        https://github.com/prod3v3loper/Webpack-HTML-CSS-SASS-JavaScript
+ * @see         https://webpack.js.org/guides/getting-started/
  */
 const path = require( 'path' );
 const HtmlWebpackPlugin = require( 'html-webpack-plugin' ); // https://github.com/jantimon/html-webpack-plugin
