@@ -73,4 +73,4 @@ possible.
 
 # License
 
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://github.com/prod3v3loper/webpack-html-css-sass-javascript/blob/master/LICENSE)
