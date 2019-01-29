@@ -5,7 +5,7 @@
     "private": true,
     "keywords": [],
     "author": "Samet Tarim",
-    "license": "ISC",
+    "license": "MIT",
     "scripts": {
         "server": "webpack-dev-server --open",
         "build": "webpack"
